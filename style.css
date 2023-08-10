@@ -1,0 +1,28 @@
+.heading
+{
+    width: 50%;
+    font-size: 32px;
+}
+
+.items
+{
+    color:rgb(255, 255, 255);
+}
+hr
+{
+    width: 20%;
+}
+
+body
+{
+    background-color: rgb(95, 110, 247);
+    color:white;
+}
+
+#camera_video{
+    border : 2px dashed rgb(32, 32, 106);
+    width: 400px;
+    height: 300px;
+    padding-left: -15px;
+
+}
